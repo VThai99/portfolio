@@ -1,0 +1,57 @@
+{
+  "banner": {
+    "avata": "assets/image4.png",
+    "name": "Việt Thái",
+    "introduce": "Success requires no apologies. Failure permits no alibis.",
+    "typing_text": [
+      "Hi",
+      2000,
+      "My name is Thái",
+      2000,
+      "I'm 24 years old",
+      2000,
+      "I'm a programer",
+      2000,
+      "Have fun",
+      2000
+    ],
+    "faceLink": "https://www.facebook.com/thai.viet.7140/",
+    "githubLink": "https://vthai99.github.io/",
+    "linkedinLink": "https://www.linkedin.com/in/ho%C3%A0ng-vi%E1%BB%87t-th%C3%A1i-2aa662216/"
+  },
+  "about": {
+    "fullName": "Hoàng Việt Thái",
+    "DOB": "Nov 20, 1999",
+    "gender": "Male",
+    "phone": "0326962671",
+    "Email": "vietthai2099@gmail.com",
+    "address": "Hanoi, Vietnam"
+  },
+  "services": [
+    {
+      "name": "Technology & Framework",
+      "description": "HTML, CSS, SCSS, Bootstrap, React Bootstrap, CoreUI, TailwindUI, Redux, Redux Saga, ReactJs, NextJs, NodeJs, ExpressJs, NestJs.",
+      "link": "Learn more"
+    },
+    {
+      "name": "Database System",
+      "description": "MySQL, PostgresSQL, SQL Server.",
+      "link": "Learn more"
+    },
+    {
+      "name": "Development Tool",
+      "description": "IDE : Visual Studio, Visual Studio Code, GIT, Jira",
+      "link": "Learn more"
+    },
+    {
+      "name": "Operating System",
+      "description": "Windows, Ubuntu",
+      "link": "Learn more"
+    },
+    {
+      "name": "Language",
+      "description": "English",
+      "link": "Learn more"
+    }
+  ]
+}
